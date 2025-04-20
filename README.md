@@ -1,6 +1,6 @@
 automation of insurance contract - это мой пет проект для одного из предметов в универе
 
-Стек технологий : Python (3.12) , PyQt6 , fpdf , cryptography
+Стек технологий : Python (3.12) , PyQt6(6.8.1), fpdf(1.7.2) , cryptography(44.0.2)
 
 Из возможностей : 
 -
